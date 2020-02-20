@@ -5,9 +5,9 @@
 2. These HTML forms are parsed and a text file is generated. Emotions has to be extracted from this data.
 
 # Prequisite python libraries:
-nltk
-HTMLParser
-Progressbar
+1.nltk
+2.HTMLParser
+3.Progressbar
 
 # There are three scripts in the directory:
 
