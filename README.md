@@ -6,7 +6,9 @@
 
 # Prequisite python libraries:
 1.nltk
+
 2.HTMLParser
+
 3.Progressbar
 
 # There are three scripts in the directory:
