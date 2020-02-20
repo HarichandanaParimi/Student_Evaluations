@@ -9,3 +9,14 @@ nltk
 HTMLParser
 Progressbar
 
+# There are three scripts in the directory:
+
+1.	Process_Comments.py: This script cleans the comments and does the pre-processing of the data.
+2.	GetEmotion.py: This script is used to use the lexicons and then process the comments and come up with final emotion and a bunch of other columns.
+3.	Utility.py: Utility file with methods for main class.
+4.	converter.py: This file is used to read the final dataset and pick the variables you need and then write into a csv file.
+
+# Running these commands in the below order will result you in the final dataset:
+1.	Python Process_Comments.py
+2.	Python GetEmotion.py
+3.	Python coverter.py
